@@ -1,4 +1,4 @@
 # IS-House-prices
 
-First try in Kaggle competition:
+Try in Kaggle competition:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
